@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dougmcclurg
+👋 Hi, I’m @dougmcclurg
 
 <!---
 dougmcclurg/dougmcclurg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
